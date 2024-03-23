@@ -2,6 +2,8 @@
 
 AnuBitux is a free and open source debian-based Linux distribution made to manage everything about your cryptos in a simple and safe way!
 
+<figure><img src=".gitbook/assets/2024-03-23_18-07.png" alt=""><figcaption><p>How the AnuBitux desktop looks like</p></figcaption></figure>
+
 It provides a full amnesic working environment with a lot of tools that can be used to:
 
 * create new wallets (i.e. obtain paper wallets and/or mnemonic seeds from dice rolls, generate wallets through trusted software);
